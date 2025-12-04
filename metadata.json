@@ -1,0 +1,7 @@
+{
+  "name": "Quantum Christmas Tree",
+  "description": "A 3D interactive holographic Christmas tree powered by Gemini for generative themes and greetings. Use your mouse or touch to swirl the quantum particles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
